@@ -59,7 +59,6 @@ fun calculate(s: String): Int {
         index++
     }
     println(array.toString())
-
     return array[0]
 }
 
