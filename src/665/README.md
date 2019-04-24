@@ -19,4 +19,6 @@
 > 说明：  
 > n 的范围为 [1, 10,000]。 
 
+![](https://ws1.sinaimg.cn/large/6bc7b9efgy1g2dlqsn49cj20k107fwew.jpg)
+
 
